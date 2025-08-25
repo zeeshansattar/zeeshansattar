@@ -6,7 +6,7 @@ Unity3d Game, XR Developer and Snapchat Lens Creator
 
 I started my career building AR applications with Unity and Vuforia, including an augmented reality chemical reactions app to help students visualize complex concepts. Later, I worked on Mixed Reality with the Meta 2 headset, developing an aircraft simulation project. Shifting towards gaming, I prototyped hyper-casual titles and built a 2D educational game covering English, Science, and Math for young learners.
 
-I then joined the team behind the brain-training app Ocothink, where I developed new games, revamped existing ones, and optimized performance. Currently, I focus on VR training simulators for the Oculus Quest 2, including a welding prototype and a solar panel installation simulator.
+I then joined the team behind the brain-training app Ocothink, where I developed new games, revamped existing ones, and optimized performance. After that, I joined CodeLabs Inc and worked on VR training simulators for the Oculus Quest 2, including a welding prototype and a solar panel installation simulator. Currently I'm working at Viral Vind Technologies developing a mobile 3d zombie shooter game like doomsday with multiple bases and buildings with upgrades upcoming multiplayer support.
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [mzeeshansattar41@gmail.com](mailto:mzeeshansattar41@gmail.com)
